@@ -1,2 +1,7 @@
+# D
 /bin/
-dub.selections.json
+/dub.selections.json
+
+# PHP
+/vendor/
+/composer.lock
