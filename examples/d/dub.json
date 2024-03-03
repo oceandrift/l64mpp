@@ -1,6 +1,5 @@
 {
 	"name": "l64mpp-example",
-	"license": "CC0-1.0",
 	"importPaths": ["."],
 	"sourcePaths": ["."],
 	"targetPath": "bin",

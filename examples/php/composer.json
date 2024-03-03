@@ -1,6 +1,5 @@
 {
     "name": "oceandrift/l64mpp-example",
-    "license": "CC0-1.0",
 	"type": "project",
 	"minimum-stability": "dev",
 	"repositories": [

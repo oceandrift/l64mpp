@@ -3,7 +3,7 @@
 	"description": "Little-endian 64-bit Message Passing Protocol",
 
 	"copyright": "Copyright © 2024 Elias Batek",
-	"license": "CC0-1.0",
+	"license": "BSL-1.0",
 
 	"authors": ["Elias Batek"],
 

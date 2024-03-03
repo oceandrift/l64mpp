@@ -2,7 +2,7 @@
     "name": "oceandrift/l64mpp",
     "description": "Little-endian 64-bit Message Passing Protocol",
     "type": "library",
-    "license": "CC0-1.0",
+    "license": "BSL-1.0",
     "authors": [
         {
             "name": "Elias Batek"
