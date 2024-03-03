@@ -4,5 +4,5 @@
 	"importPaths": ["."],
 	"sourcePaths": ["."],
 	"targetPath": "bin",
-	"dependencies": { "l64mpp": { "path": "../" } }
+	"dependencies": { "l64mpp": { "path": "../.." } }
 }
