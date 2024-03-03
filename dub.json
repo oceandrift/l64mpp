@@ -7,8 +7,8 @@
 
 	"authors": ["Elias Batek"],
 
-    "importPaths": ["d/src"],
-    "sourcePaths": ["d/src"],
+	"importPaths": ["d"],
+	"sourcePaths": ["d"],
 
 	"targetPath": "bin",
 	"targetType": "library",
